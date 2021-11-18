@@ -4,9 +4,7 @@
 ## Description
 This Class was to ensure we learn the html principles, attributes, element usage etc, use of cascaded Styling sheets, Staging amd commiting work to github
 ## Setup/Installation Requirements
-* gitbash and github credential
-* Vs Codes
-* Html nad CSS knowledge
+* Visit the improved deployed page https://ochieng-28.github.io/My-Portfolio/ or clone the repo and open Index.html on your machine.
 ## Known Bugs
 No Bugs deteccted for this work
 ## Technologies Used
